@@ -32,8 +32,6 @@ clang filename.c -o output
 
 # Run
 ./output
-<<<<<<< HEAD
+
 ```
-=======
->>>>>>> e058e854a831ed465696184357b01b76d192e9c0
 
