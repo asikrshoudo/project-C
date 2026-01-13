@@ -33,12 +33,3 @@ clang filename.c -o output
 # Run
 ./output
 
-
-### What was improved:
-* **Termux Specifics:** Mentioned `clang` as the compiler, which is the standard for Termux.
-* **Clean Links:** Turned the long Rokomari URL into a clickable "Click Here" link for a tidier look.
-* **Universal Formatting:** Used standard Markdown so it looks great on GitHub, GitLab, or any other platform.
-
-Would you like me to add a small **"Cheat Sheet"** section for common Termux shortcuts (like how to save or exit the editor)?
-
-
